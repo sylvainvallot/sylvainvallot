@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sylvainvallot
-- 👀 I’m interested in material science and aerospace
+- 👀 I’m interested in materials science and engineering, aerospace and programming
 - 💞️ I’m looking to collaborate on [La Nouvelle Académie](https://lanouvelleacademie.fr)
 - 📫 How to reach me contact@sylvainvallot.com
 
